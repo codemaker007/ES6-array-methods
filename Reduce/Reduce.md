@@ -24,7 +24,10 @@ const personen = [
   { first_name: "Aubrie", last_name: "Crummey", age: 56 }
 ];
 
-const totaleLeeftijd = personen.reduce((totaal, persoon) => totaal += persoon.age, 0);
+const totaleLeeftijd = personen.reduce(
+  (totaal, persoon) => (totaal += persoon.age),
+  0
+);
 console.log(totaleLeeftijd);
 ```
 
