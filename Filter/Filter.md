@@ -27,4 +27,4 @@ const personen = [
 const metPensioen = personen.filter(persoon => persoon.age >= 65);
 ```
 
-Hier gebruik je de ES6 arrow function notatie zodat je geen return statement hoeft te gebruiken. je returnt hier een conditie, als deze true is wordt de persoon toegevoegd aan de metPensioen const.
+Hier gebruik je de ES6 arrow function notatie zodat je geen return statement hoeft te gebruiken. Je returnt hier een conditie, als deze true is wordt de persoon toegevoegd aan de metPensioen const.
