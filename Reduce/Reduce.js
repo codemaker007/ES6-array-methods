@@ -13,5 +13,7 @@ const people = [
 
 // One liner
 const totalAge = people.reduce((total, person) => total + person.age, 0);
+const allNames = people.reduce((nameList, person) => nameList += person.first_name + ' ' + person.last_name + ' ', '');
 
 console.table(totalAge);
+console.log(allNames);
