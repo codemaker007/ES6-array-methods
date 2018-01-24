@@ -11,7 +11,7 @@ const people = [
   { first_name: "Aubrie", last_name: "Crummey", age: 56 }
 ];
 
-// Verkrijg alle mensen die ouder zijn dan of 65 zijn
+// Alle mensen die 65 jaar of ouder zijn
 /*
 Tip:
 console.table(); is erg handig om alles in een overzichtelijke tabel in de console te krijgen.
