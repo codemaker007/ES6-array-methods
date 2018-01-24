@@ -5,14 +5,14 @@
 In ES6 zitten een paar niewe array methods die je kan gebruiken om arrays onder andere te filteren.
 De nieuwe methods zijn:
 
-*Every
-*Filter
-*Find
-*Map
-*Reduce
-*Some
-*Sort
-*Spread
+- Every
+- Filter
+- Find
+- Map
+- Reduce
+- Some
+- Sort
+- Spread
 
 ## Wat is dit'?'
 
