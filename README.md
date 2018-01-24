@@ -14,7 +14,7 @@ De nieuwe methods zijn:
 - Sort
 - Spread
 
-## Wat is dit'?'
+## Wat is dit ?
 
 Deze map bevat 1 map voor elke ES6 array method met een javascript file als voorbeeld en een basic documentatie in markdown.
 
