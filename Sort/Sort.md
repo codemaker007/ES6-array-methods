@@ -9,7 +9,7 @@ __sort() heeft een belangrijke eigenaardigheid die niet erg logisch is. Hij vera
 __Je zal de array dus moeten kopiëren als je de originele volgorde wilt behouden__
 
 Voorbeeld:
-Je hebt weer een array met mensen erin en wil ze sorteren op basis van leeftijd. Je kan dit doen door de sort() method te gebruiken en 1 te returnen als de leeftijd van persoon 1 groter is dan die van persoon 2.
+Je hebt weer een array met mensen erin en wilt ze sorteren op basis van leeftijd. Je kan dit doen door de sort() method te gebruiken en 1 te returnen als de leeftijd van persoon 1 groter is dan die van persoon 2.
 
 Uitwerking:
 
