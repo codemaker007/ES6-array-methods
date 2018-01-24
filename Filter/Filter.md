@@ -1,4 +1,4 @@
-# array.filter()
+# Array.filter()
 
 Met filter kan je dingen uit een array halen op basis van kenmerken.
 Dit gebeurt door de filter() functie uit te voeren op de desbetreffende array en deze data in bijvoobeeld een const te zetten. Je verkrijgt de data door true te returnen voor alles wat aan de voorwaarde(n) voldoet.
