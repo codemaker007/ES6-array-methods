@@ -56,3 +56,4 @@ console.table(personenGesorteerdOmgekeerd);
 ```
 
 Nu krijg je de personen gesorteerd op aflopende leeftijd.
+Je kan deze modificaties natuurlijk ook rechtstreeks uitvoeren op de array in plaats van ze in een aparte const te zetten.
